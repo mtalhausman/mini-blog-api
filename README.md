@@ -1,3 +1,8 @@
+## Live Demo
+
+Base URL: https://muhammadtalhausman.pythonanywhere.com
+Swagger Docs: https://muhammadtalhausman.pythonanywhere.com/api/docs/
+
 # Mini Blog API
 
 A Django REST Framework API for a simple blog platform with posts and comments.
