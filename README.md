@@ -1,6 +1,7 @@
 ## Live Demo
 
-Base URL: https://muhammadtalhausman.pythonanywhere.com
+Base URL: https://muhammadtalhausman.pythonanywhere.com/api/posts/
+
 Swagger Docs: https://muhammadtalhausman.pythonanywhere.com/api/docs/
 
 # Mini Blog API
