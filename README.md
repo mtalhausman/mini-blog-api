@@ -19,7 +19,7 @@ A Django REST Framework API for a simple blog platform with posts and comments.
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/mtalhausman/mini-blog-api
 cd Duseca_Django_Task
 
 # Install dependencies
